@@ -1,4 +1,3 @@
-cat << 'EOF' > setup.sh
 #!/bin/bash
 
 echo "🚀 Setting up full Ads Pro production-ready app..."
@@ -840,4 +839,3 @@ class MainActivity : ComponentActivity() {
 EOT
 
 echo "✅ Full production-ready project files generated successfully!"
-EOF

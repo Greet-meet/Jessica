@@ -1,0 +1,5 @@
+-keep class com.adspro.app.data.** { *; }
+-keepclassmembers class com.adspro.app.data.** { *; }
+-keep class com.google.gson.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
